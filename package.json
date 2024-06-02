@@ -1,4 +1,17 @@
 {
+  "name": "eye-clash",
+  "version": "1.0.0",
+  "description": "Eye Clash app game project back-end server",
+  "repository": "https://github.com/YHyoyeon/EyeClash.git",
+  "keywords": ["typescript", "nodejs"],
+  "author": {
+    "name": "Yoon HyoYeon",
+    "email": "gydus.dev@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
